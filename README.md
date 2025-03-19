@@ -4,13 +4,9 @@ Welcome to the **DrumsBiomech** project! This project allows you to visualize an
 
 ## Launch the Project
 
-To launch the project in an interactive environment, click the image below. This will open Binder with the Jupyter interface. To view the project via **Voilà** (without the code interface), please follow these steps:
+To launch the project in an interactive environment, click the image below. This will open the notebook `Projet_Drums-v2.ipynb` using Binder with the Voilà interface:
 
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AurelieSar/DrumsBiomech//main?urlpath=voila%2Frender%2FProjet_Drums-v2.ipynb)
-
-### Steps to follow:
-
-1. Click on the **Launch Binder** link, Binder will open with the notebook `Projet_Drums-v2.ipynb` in the Voilà interface.
    
 ## Prerequisites
 
