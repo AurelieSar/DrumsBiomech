@@ -1,0 +1,8 @@
+pandas
+plotly
+ipywidgets
+IPython
+numpy
+matplotlib
+seaborn
+scipy
