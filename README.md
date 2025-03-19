@@ -10,14 +10,8 @@ To launch the project in an interactive environment, click the image below. This
 
 ### Steps to follow:
 
-1. After clicking the **Launch Binder** link, Binder will open with the notebook `Projet_Drums-v2.ipynb` in the Jupyter interface.
+1. Click on the **Launch Binder** link, Binder will open with the notebook `Projet_Drums-v2.ipynb` in the Voilà interface.
    
-2. Once the notebook is loaded, look for the **"Render with Voilà"** button, which is located on the **upper taskbar**, near the top-right corner of the interface, to the right of the "GitHub", "Binder", and "Code" buttons.
-
-   - **Button Appearance**: The **"Render with Voilà"** button consists of **two curved lines**, one **yellow** and one **blue**, which form a wave-like shape. 
-   
-3. Click on the **"Render with Voilà"** button, and Voilà will load, allowing you to interact with the project without seeing the code.
-
 ## Prerequisites
 
 No prerequisites are needed if you are using Binder to run the project online.
